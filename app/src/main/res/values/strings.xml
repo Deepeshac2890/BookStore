@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="create_acct">Welcome to the knowledge store</string>
+    <string name="logo_name">Book Junction</string>
+    <string name="sure">sure</string>
+    <string name="action">action</string>
+</resources>
